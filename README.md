@@ -4,4 +4,4 @@ new staff IDs, create customer accounts, perform deposit and withdrawal transact
 To compile the code, use gcc BMS_code.c -o BMS_app.exe, and run the executable to start the system. 
 The program uses staff.txt and customers.txt to store staff credentials and customer data, respectively.
 NOTE: THIS IS SECOND VERSION OF MY BMS PROJECT, I DID THIS BECAUSE I FELT THAT MY FIRST VERSION WAS MORE LIKE A MOBILE BANKING SOFTWARE
-Updated NOTE: I have learn much after creating this repo and now I see how dumb I was to create a version 2 of the same project in a new repo while the whole point of the github is version control.Laugh at me lol****
+Updated NOTE: I have learn much after creating this repo and now I see how dumb I was to create a version 2 of the same project in a new repo while the whole point of the github is version control.Laugh at me lol😂****
