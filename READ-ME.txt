@@ -1,5 +1,0 @@
-This project consists of a basic Bank Management System for staff and customer account management. 
-The code file is named BMS_code.c, and the executable file is BMS_app.exe. Staff can log in, create 
-new staff IDs, manage customer accounts, and perform deposit and withdrawal transactions. 
-To compile the code, use gcc BMS_code.c -o BMS_app.exe, and run the executable to start the system. 
-The program uses staff.txt and customers.txt to store staff credentials and customer data, respectively.
